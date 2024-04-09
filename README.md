@@ -11,6 +11,7 @@ The DocEmbed AI Search Engine is a powerful tool that allows you to search and r
 
 ### Video
 
+https://github.com/ansh-star/DocEmbed-AI-Search-Engine/assets/96314656/2d5adbba-cc40-423d-b203-8031e5b4116a
 
 ## Getting Started
 To get started with the DocEmbed AI Search Engine, follow these steps:
