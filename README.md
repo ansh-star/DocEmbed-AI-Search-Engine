@@ -9,6 +9,9 @@ The DocEmbed AI Search Engine is a powerful tool that allows you to search and r
 - **Contextual Answers**: The search engine not only retrieves relevant documents but also provides detailed answers to your questions, drawing from the content of the documents.
 - **Streamlit Interface**: The application is built using the Streamlit framework, providing a user-friendly and interactive web-based interface for easy access and usage.
 
+### Video
+
+
 ## Getting Started
 To get started with the DocEmbed AI Search Engine, follow these steps:
 
@@ -43,3 +46,5 @@ We welcome contributions to the DocEmbed AI Search Engine project. If you would 
 2. **Create a Branch**: Create a new branch for your feature or bug fix.
 3. **Implement Changes**: Implement your changes and ensure that the application is still functioning correctly.
 4. **Submit a Pull Request**: Create a pull request from your branch to the main repository, detailing the changes you have made.
+
+
